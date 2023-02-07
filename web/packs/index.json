@@ -1,7 +1,8 @@
 {
   "packs": [
     "blobbyyyy.json",
-    "Peachandgoma.json"
+    "Peachandgoma.json",
+    "stickerssimpsons.json"
   ],
   "homeserver_url": "https://matrix.thepit.space"
 }
